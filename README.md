@@ -1,2 +1,2 @@
-# MOBILE_APP_DEVELOPMENT
-Mobile Application Development using React Native [CLADC01]
+# MOBILE APP DEVELOPMENT
+Mobile Application Development using React Native.
